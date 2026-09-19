@@ -1,0 +1,6 @@
+{
+  "name": "Rick and Morty",
+  "description": "App sencilla de Rick y Morty que consulta la API oficial para mostrar los personajes con sus detalles.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

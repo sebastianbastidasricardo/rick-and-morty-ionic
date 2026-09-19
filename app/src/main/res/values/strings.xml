@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">Rick and Morty</string>
+    <string name="search_characters_placeholder">Buscar personaje...</string>
+    <string name="filter_all">Todos</string>
+    <string name="filter_alive">Vivos</string>
+    <string name="filter_dead">Muertos</string>
+    <string name="filter_unknown">Desconocido</string>
+    <string name="status_alive">Vivo</string>
+    <string name="status_dead">Muerto</string>
+    <string name="status_unknown">Desconocido</string>
+    <string name="species_label">Especie:</string>
+    <string name="gender_label">Género:</string>
+    <string name="origin_label">Origen:</string>
+    <string name="location_label">Ubicación:</string>
+    <string name="episodes_count_label">Apariciones:</string>
+    <string name="retry_button">Reintentar</string>
+    <string name="no_characters_found">No se encontraron personajes</string>
+    <string name="error_loading_characters">Error al cargar personajes. Verifica tu conexión a internet.</string>
+    <string name="character_details_title">Detalles del Personaje</string>
+    <string name="close_button">Cerrar</string>
+</resources>
